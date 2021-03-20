@@ -37,7 +37,7 @@ Goto http://localhost:3000/ through web browser, you should see a store website 
 
 ### 2.4 Database
 
-A SQLite file-based database named `shop.db` is placed under `server/db/` folder. You are expected to use the provided client based on your OS (Window 7/10, MacOS) to connect to the database by executing below command
+A SQLite file-based database named `shop.db` is placed under `server/db/` folder. You are expected to use the provided client based on your OS (Window 10, MacOS) to connect to the database by executing below command
 
 Window
 ```
