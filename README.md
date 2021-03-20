@@ -98,7 +98,7 @@ Also please find the following example URL format:
 - Invalid repository URL format example: https://gitlab.com/John_Chan/example-repo/-/tree/my-branch
 
 
-N.B.1: You are expected to submit before 20 Mar 2021 (Saturday) 12:00 n.n. (HK Time). Late submission will not be considered.
+N.B.1: You are expected to commit your code to your own repository before 20 Mar 2021 (Saturday) 11:00 a.m. (HK Time), and to submit Google Form before 20 Mar 2021 (Saturday) 12:00 n.n. (HK Time). Late submission will not be considered.
 
 N.B.2: You should not have duplicated submission. If so, IBM recruitment team will take the first submission as the final version.
 
